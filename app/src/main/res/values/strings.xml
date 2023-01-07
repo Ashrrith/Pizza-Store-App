@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RU Pizza Store</string>
+    <string name="shopping_cart">Check Current Order</string>
+    <string name="store_orders">Check Store Orders</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="directions_for_picking_pizzas">Please choose a Pizza option below:</string>
+    <string name="store_order_title">Store Orders:</string>
+
+    <string-array name="pizza_options">
+        <item>Chicago style DeepDish Crust, Deluxe Flavor</item>
+        <item>Chicago style Pan Crust, BBQ Chicken Flavor</item>
+        <item>Chicago style Stuffed Crust, Meatzza Flavor</item>
+        <item>Chicago style Pan Crust, Build Your Own</item>
+        <item>New York style Brooklyn Crust, Deluxe Flavor</item>
+        <item>New York style Thin Crust, BBQ Chicken Flavor</item>
+        <item>New York style HandTossed Crust, Meatzza Flavor</item>
+        <item>New York style HandTossed Crust, Build your own</item>
+
+    </string-array>
+    <string name="ny_ordering_page_title">New York Style Ordering Page</string>
+    <string name="chic_ordering_page_title">Chicago Style Pizza Ordering Page</string>
+    <string name="crust_label">Crust Type:</string>
+    <string name="home">Go Home</string>
+    <string name="size_label">Pizza Size:</string>
+    <string name="price_label">Price:</string>
+    <string name="selected_toppings_title_BYO">Select to remove selected toppings</string>
+    <string name="avail_toppings_title_BYO">Select available toppings to add</string>
+    <string name="selected_toppings_title">Preset Toppings</string>
+
+    <string-array name="sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name="add_to_order_btn_text">Add to Order</string>
+    <string name="check_curr_order_title">Current Order</string>
+    <string name="order_num_label">Order Number:</string>
+    <string name="subtotal_label">Subtotal $</string>
+    <string name="sales_tax_label">Sales Tax $</string>
+    <string name="order_total_label">Order total $</string>
+    <string name="check_order_directions">Click on a pizza below to remove:</string>
+    <string name="place_order_btn_label">Place Order</string>
+    <string name="clear_btn_label">Clear Order</string>
+    <string name="order_spinner_description">Order dropdown box</string>
+    <string name="cancel_order_btn_text">Cancel Order</string>
+</resources>
